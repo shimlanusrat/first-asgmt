@@ -68,4 +68,26 @@ h1{
 .second-headline{
     text-align: center;
 }
+.third-section img{
+background-image:url(images/shapes/shape-1.png);
+background-repeat:round;
+width: 40%;
+padding-left: 200px;
+}
+.third-section{
+    padding-right: 5%;
+}
+.fourth{
+    width: 40%;
+    margin: 20px;
+}
+.fourth img{
+    width: 40%;
+    background-image:url(images/shapes/shape-1.png);
+}
+footer{
+    background-color: black;
+    text-decoration: none;
+    color: white;
+}
     
