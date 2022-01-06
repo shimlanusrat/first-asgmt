@@ -10,9 +10,10 @@ font-family: 'Playfair Display', serif;
 span{
     color: tomato;
 }
-section{
+.flexible-container{
     display:flex;
     margin: middle;
+  
 }
 .half-width img{
     width: 40%;
@@ -28,3 +29,43 @@ h1{
     border-radius:5px;
     padding:10px 40px;
 }
+.mission-area{
+    display: flex;
+}
+.box-area-one{
+    width: 30%;
+    background-color:lightgray;
+    margin: 90px;
+    padding: 40px ;
+    border-radius: 30px;
+
+}
+.box-area-one img{
+    width: 40%;
+}
+.box-area-two{
+    width: 30%;
+    background-color: lightpink;
+    margin: 90px;
+    padding: 40px;
+    border-radius: 30px;
+
+}
+.box-area-two img{
+    width: 40%;
+}
+.box-area-three{
+    width: 30%;
+    background-color: lightyellow;
+    margin: 90px;
+    padding: 40px;
+    border-radius: 30px;
+
+}
+.box-area-three img{
+    width: 40%;
+}
+.second-headline{
+    text-align: center;
+}
+    
