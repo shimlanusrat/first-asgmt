@@ -1,0 +1,30 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Bitter', serif;
+font-family: 'Playfair Display', serif;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+span{
+    color: tomato;
+}
+section{
+    display:flex;
+    margin: middle;
+}
+.half-width img{
+    width: 40%
+}
+h1{
+    font-size: 40px;
+}
+.button{
+    background-color: tomato;
+    font-weight: 300;
+    text-decoration: none;
+    color: azure;
+    border radius:5px;
+    padding:10px 40px;
+}
